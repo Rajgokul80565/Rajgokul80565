@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on ...React js Movie Suggestion Web App
 - 🌱 I’m currently learning ... Hibernate, Typescript 
-- 👯 I’m looking to collaborate on ... React.js, Node js, Djnago
+- 👯 I’m looking to collaborate on ... React.js, Node js, Django
 - 🤔 I’m looking for help with ... AWS
 - 📫 How to reach me: ...[https://www.linkedin.com/in/raj-gokul-194237195/]
 - 😄 Pronouns: ...He/Him
