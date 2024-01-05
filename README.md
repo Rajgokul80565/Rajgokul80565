@@ -1,4 +1,4 @@
-# 💫 Me:
+# 💫 About Me:
 Hi, I'm Rajgokul, a Software Engineer specializing in frontend development with React.js, JavaScript, HTML, CSS, and TypeScript. On the backend, I leverage the power of Node.js and Express.js to create robust and scalable server-side solutions.<br> <br>Additionally, my proficiency extends beyond the web development realm, as I know a bit of Java and Python, providing a well-rounded skill set for tackling various technical challenges.<br><br>🔭Currently, I'm focusing on honing my skills in emerging technologies such as Next js, Typescript, and  Docker<br>💻I’m currently working on a  Mern app project called DoctorIn.<br>👯 I’m looking to collaborate on Next js , and docker. <br>🤝 I’m looking for help with Docker and Java springboot<br>🌱 I’m currently learning Next js, Docker and springboot<br>
 
 
@@ -11,9 +11,6 @@ Hi, I'm Rajgokul, a Software Engineer specializing in frontend development with 
 ![](https://github-readme-stats.vercel.app/api?username=Rajgokul80565&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Rajgokul80565&theme=gotham&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajgokul80565&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Rajgokul80565&icon=0&color=11)](https://visitcount.itsvg.in)
