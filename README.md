@@ -1,5 +1,5 @@
 # ✋ Hi there
-# 💫 About Me:
+# 💫 About Me
 Hi, I'm Rajgokul, a Software Engineer specializing in Both frontend and backend development with React.js, JavaScript, HTML, CSS, TypeScript,  Node.js, and express.js. On the backend, I leverage the power of Node.js and Express.js to create robust and scalable server-side solutions.<br> <br>Additionally, my proficiency extends beyond the web development realm, as I know a bit of Java and Python, providing a well-rounded skill set for tackling various technical challenges.<br><br>🔭Currently, I'm focusing on honing my skills in emerging technologies such as Next js, Typescript, and  Docker<br>💻I’m currently working on a  Mern app project called DoctorIn.<br>👯 I’m looking to collaborate on Next js , and docker. <br>🤝 I’m looking for help with Docker and Java springboot<br>🌱 I’m currently learning Next js, Docker and springboot<br>
 
 
